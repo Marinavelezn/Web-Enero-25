@@ -44,3 +44,13 @@ ul {
     padding: 12px 24px;
     margin: 48px;
   }
+  .pepe {
+    height: 100vh;
+    width: 200px;
+  }
+  .foot {
+    display: inline;
+    position: inherit;
+    height: 50px;
+    background-color: hotpink;
+  }
