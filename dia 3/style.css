@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+.div1 {
+    height: 250px;
+    width: 250px;
+    background-color: cornflowerblue;
+    padding: 25px;
+    margin: 25% auto;
+    border-top: 12px dotted;
+    border-bottom: 12px dashed;
+    border-right: 12px groove;
+    border-left: 12px ridge;
+}
+.div2 {
+    height: 50%;
+    width: 50%;
+    background-color: pink;
+    margin: 45px auto;
+    border: 12px outset;
+}
